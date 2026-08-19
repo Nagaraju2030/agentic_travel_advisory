@@ -1,0 +1,16 @@
+{
+  "origin": "Hyderabad, India",
+  "destination": "Tokyo, Japan",
+  "start_date": "2026-09-15",
+  "end_date": "2026-09-20",
+  "travelers": 2,
+  "passport_country": "India",
+  "residency_country": "India",
+  "budget": 3500,
+  "currency": "USD",
+  "interests": ["food", "technology", "temples", "shopping"],
+  "dietary_preferences": ["vegetarian-friendly options"],
+  "mobility_needs": [],
+  "risk_tolerance": "medium",
+  "notes": "First visit; prefer a balanced pace and public transport."
+}

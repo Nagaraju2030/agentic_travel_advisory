@@ -1,0 +1,5 @@
+Validation performed before packaging:
+- Python compileall: PASS
+- pytest: 3 passed
+- End-to-end workflow test: PASS (13 agent outputs including final advisory)
+- Network-independent tests use FakeTools + MockLLM
